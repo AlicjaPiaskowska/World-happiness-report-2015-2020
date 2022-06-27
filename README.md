@@ -4,4 +4,4 @@
 
 > In the work involving importing, analyzing, and processing .Csv files in Python, it is necessary to implement libraries that enable data manipulation.
 
->Ostateczny raport znajduje się w trzech formatach: IPNYB - można otworzyć go za pomocą jupyter notebook, py - ożna otworzyć go za pomocą dowolnego programu obsługującego język python, oraz htlm - analizę można otworzyć bezpośrednio w przeglądarce.
+>Ostateczny raport znajduje się w trzech formatach: IPNYB - można otworzyć go za pomocą jupyter notebook, py - można otworzyć go za pomocą dowolnego programu obsługującego język python, oraz htlm - analizę można otworzyć bezpośrednio w przeglądarce.
